@@ -1,0 +1,4 @@
+com\frey\family\manager\controller\FamilyController.class
+com\frey\family\manager\SpringBootFamilyManagerApplication.class
+com\frey\family\manager\model\FamilyPerson.class
+com\frey\family\manager\service\FamilyService.class
